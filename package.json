@@ -1,0 +1,29 @@
+{
+  "name": "imgminx",
+  "version": "1.1.8",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tien-ekn/imgminx.git"
+  },
+  "dependencies": {
+    "glob": "^10.3.10",
+    "imagemin": "^8.0.1",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-webp": "^8.0.0"
+  },
+  "bin": "./index.js",
+  "license": "MIT",
+  "keywords": [
+    "imagemin",
+    "npx",
+    "dlx",
+    "pnpx",
+    "compress",
+    "optimize",
+    "images",
+    "webp",
+    "in place"
+  ]
+}
